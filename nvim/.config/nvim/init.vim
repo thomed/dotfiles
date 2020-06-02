@@ -1,4 +1,6 @@
 " Plugins (requires pip install neovim)
+" - Remember to call PlugInstall
+" - Need nodejs installed for coc
 call plug#begin()
 Plug 'https://github.com/ap/vim-css-color.git'
 Plug 'https://github.com/Raimondi/delimitMate.git'
