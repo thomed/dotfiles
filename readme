@@ -1,0 +1,5 @@
+Using stow
+- Clone to home directory
+- cd ~/dotfiles
+- stow {folder}
+
